@@ -1,2 +1,1 @@
-print('Hello, World!')
-print('Vanessa was herez1')
+print('Hello, Vanessa!')
