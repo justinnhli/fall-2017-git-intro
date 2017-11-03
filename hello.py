@@ -1,2 +1,3 @@
 print('Hello, Chen!')
-print('=v =')print('git sucks!')
+print('=v =')
+print("Learing git is fun!")
