@@ -1,1 +1,1 @@
-print("Hello Friend!")
+print("Hello Friend!")print('git sucks!')
